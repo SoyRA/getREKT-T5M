@@ -9,6 +9,19 @@ color 07
 set GameIP=localhost
 
 
+:: Disable the IPX Protocol
+:: Don't do it in case of LAN
+:: 0 - Enable
+:: 1 - Disable
+set GameIPX=1
+
+
+:: Disable the UDP Protocol
+:: 0 - Enable
+:: 1 - Disable
+set GameUDP=0
+
+
 :: Server Port
 :: Make sure you Port Forward both UDP and TCP
 set GamePort=28960
@@ -40,6 +53,6 @@ echo.
 echo.
 :SV
 echo (%date%)  -  (%time%) Starting the Dedicated Server...
-start /wait t5m.exe +set dedicated 2 +set net_ip "%GameIP%" +set net_port "%GamePort%" +exec %ServerFilename% +set fs_game "%ModFolderName%" +set playlist "%PlaylistGameMode%" +map mp_nuked
+start /wait t5m.exe +set dedicated 2 +set net_ip "%GameIP%" +set net_noipx "%GameIPX%" +set net_noudp "%GameUDP%" +set net_port "%GamePort%" +exec %ServerFilename% +set fs_game "%ModFolderName%" +set playlist "%PlaylistGameMode%" +map mp_nuked
 echo (%date%)  -  (%time%) WARNING: The server has stopped. Restarting...
 goto SV
