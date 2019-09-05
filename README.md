@@ -57,6 +57,7 @@
   - [Quiero conectar a mi propio servidor y no puedo!](../../wiki/Soluci%C3%B3n-de-problemas#quiero-conectar-a-mi-propio-servidor-y-no-puedo)
 - [Enlaces de getREKT](#enlaces-de-getrekt)
 - [Enlaces importantes de CoD: BO](#enlaces-importantes-de-cod-bo)
+- [Imágenes](#imágenes)
 
 ## Enlaces de getREKT
 **[`^        VOLVER ARRIBA        ^`](#tabla-de-contenidos)**
@@ -70,3 +71,14 @@
 - [Discusiones](https://steamcommunity.com/app/42700/discussions/) ([MP](https://steamcommunity.com/app/42710/discussions/))
 - [Guías](https://steamcommunity.com/app/42700/guides/) ([MP](https://steamcommunity.com/app/42710/guides/))
 - [PCGamingWiki](https://pcgamingwiki.com/wiki/Call_of_Duty:_Black_Ops)
+
+## Imágenes
+**[`^        VOLVER ARRIBA        ^`](#tabla-de-contenidos)**
+
+|                                                     **Modo Zombis**                                                      |                                           **Modo Multijugador**                                            |
+|:------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
+|    <p align="center"><img src="Recursos/Imagenes/T5M-ZM-01.jpg" alt="T5M-ZM-01.jpg" width="426" height="240">    |    <img src="Recursos/Imagenes/T5M-MP-01.jpg" alt="T5M-MP-01.jpg" width="426" height="240"></p>    |
+|    <p align="center"><img src="Recursos/Imagenes/T5M-ZM-02.jpg" alt="T5M-ZM-02.jpg" width="426" height="240">    |    <img src="Recursos/Imagenes/T5M-MP-02.jpg" alt="T5M-MP-02.jpg" width="426" height="240"></p>    |
+|    <p align="center"><img src="Recursos/Imagenes/T5M-ZM-03.jpg" alt="T5M-ZM-03.jpg" width="426" height="240">    |    <img src="Recursos/Imagenes/T5M-MP-03.jpg" alt="T5M-MP-03.jpg" width="426" height="240"></p>    |
+|                                          **Servidor Dedicado**<br>(Modo Multijugador)                                          |                                **Servidor Dedicado**<br>(Modo Multijugador)                                |
+| <p align="center"><img src="Recursos/Imagenes/T5M-SV-MP-01.jpg" alt="T5M-SV-ZM-01.jpg" width="426" height="240"> | <img src="Recursos/Imagenes/T5M-SV-MP-02.jpg" alt="T5M-SV-MP-02.jpg" width="426" height="240"></p> |
