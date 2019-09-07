@@ -53,6 +53,6 @@ echo.
 echo.
 :SV
 echo (%date%)  -  (%time%) Starting the Dedicated Server...
-start /wait t5m.exe +set dedicated 2 +set net_ip "%GameIP%" +set net_noipx "%GameIPX%" +set net_noudp "%GameUDP%" +set net_port "%GamePort%" +exec %ServerFilename% +set fs_game "%ModFolderName%" +set playlist "%PlaylistGameMode%" +map mp_nuked
+start /wait t5m.exe -console +set dedicated 2 +set net_ip "%GameIP%" +set net_noipx "%GameIPX%" +set net_noudp "%GameUDP%" +set net_port "%GamePort%" +exec %ServerFilename% +set fs_game "%ModFolderName%" +set playlist "%PlaylistGameMode%" +map mp_nuked
 echo (%date%)  -  (%time%) WARNING: The server has stopped. Restarting...
 goto SV
