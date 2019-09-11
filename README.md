@@ -32,6 +32,7 @@
   - [¿Puedo tener VAC o Game Ban por usar T5M?](../../wiki/Preguntas-Frecuentes#puedo-tener-vac-o-game-ban-por-usar-t5m)
   - [¿Qué modos soporta T5M?](../../wiki/Preguntas-Frecuentes#qué-modos-soporta-t5m)
   - [¿Cómo puedo iniciar el Modo Multijugador?](../../wiki/Preguntas-Frecuentes#cómo-puedo-iniciar-el-modo-multijugador)
+  - [¿Se puede jugar de forma Offline? ¿Y LAN?](../../wiki/Preguntas-Frecuentes#se-puede-jugar-de-forma-offline-y-lan)
   - [¿Cómo puedo abrir la consola?](../../wiki/Preguntas-Frecuentes#cómo-puedo-abrir-la-consola)
   - [¿Cómo puedo agregar amigos?](../../wiki/Preguntas-Frecuentes#cómo-puedo-agregar-amigos)
   - [¿Puedo usar LinkerMod?](../../wiki/Preguntas-Frecuentes#puedo-usar-linkermod)
