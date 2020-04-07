@@ -50,6 +50,7 @@
   - [Couldn't load library: binkw22.dll](../../wiki/Soluci%C3%B3n-de-problemas#couldnt-load-library-binkw22dll)
   - [Could not load image](../../wiki/Soluci%C3%B3n-de-problemas#could-not-load-image)
   - [Deleting Old content.getrektby.us/t5m/t5game.dll.xz failed (error 5)](../../wiki/Soluci%C3%B3n-de-problemas#deleting-old-contentgetrektbyust5mt5gamedllxz-failed-error-5)
+  - [Inicio el juego y la pantalla se queda en negro](../../wiki/Soluci%C3%B3n-de-problemas#inicio-el-juego-y-la-pantalla-se-queda-en-negro)
   - [Me sale un error diciendo "No tienes este mapa" cuando realmente tengo el mapa!](../../wiki/Soluci%C3%B3n-de-problemas#me-sale-un-error-diciendo-no-tienes-este-mapa-cuando-realmente-tengo-el-mapa)
   - [El juego se crashea en el menú tras el mensaje: Obteniendo estadísticas / Fetching stats](../../wiki/Soluci%C3%B3n-de-problemas#el-juego-se-crashea-en-el-menú-tras-el-mensaje-obteniendo-estadísticas--fetching-stats)
   - [Inicio T5M y me sale: There is an important update available. (...)](../../wiki/Soluci%C3%B3n-de-problemas#inicio-t5m-y-me-sale-there-is-an-important-update-available-)
