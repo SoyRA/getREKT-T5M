@@ -10,8 +10,15 @@
 - **getREKT** no apoya la piratería, además de que no puedes usar copias de **Skidrow** / **nosTEAM** (necesitarás una copia del juego original, o una pirata con sus archivos actualizados).
 - Si has estado en ~2014 (antes de que getREKT cierre), y has creado una cuenta, podrás usar esas mismas credenciales.
   * Si, necesitas crearte una cuenta en su sitio web para poder jugar (y por ahora, no tiene soporte para jugar Offline (si o si, se necesita Internet)).
+- :warning: Es posible que al entrar a Preguntas Frecuentes te encuentres con [un error como este](https://i.imgur.com/NGohNLQ.gif).
+  - No te preocupes y accede al sitio, es un problema con el `t5m.exe` (e incluso en esa página se habla sobre si es un virus o no).
 
 ## Tabla de Contenidos
+- [Inicio](../../wiki)
+  - [Características](../../wiki#caracter%C3%ADsticas)
+  - [Guía de instalación de getREKT T5M](../../wiki#guía-de-instalación-de-getrekt-t5m)
+  - [Pedir ayuda](../../wiki#pedir-ayuda)
+  - [Reportar un fallo](../../wiki#reportar-un-fallo-bug)
 - [Cliente](../../wiki/Cliente)
   - [Requisitos](../../wiki/Cliente#requisitos)
     - [Aviso](../../wiki/Cliente#aviso)
@@ -27,6 +34,7 @@
   - [Optimizar Servidor](../../wiki/Servidor#optimizar-servidor)
 - [Preguntas Frecuentes](../../wiki/Preguntas-Frecuentes)
   - [¿Donde puedo descargar la última versión de T5M?](../../wiki/Preguntas-Frecuentes#donde-puedo-descargar-la-última-versión-de-t5m)
+  - [¿Es T5M un virus?](../../wiki/Preguntas-Frecuentes#es-t5m-un-virus)
   - [¿Qué versiones del juego puedo usar?](../../wiki/Preguntas-Frecuentes#qué-versiones-del-juego-puedo-usar)
   - [¿Necesito los DLC para jugar?](../../wiki/Preguntas-Frecuentes#necesito-los-dlc-para-jugar)
   - [¿Qué idiomas puedo usar?](../../wiki/Preguntas-Frecuentes#qué-idiomas-puedo-usar)
