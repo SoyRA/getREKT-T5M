@@ -13,6 +13,12 @@
 - :warning: Es posible que al entrar a Preguntas Frecuentes te encuentres con [un error como este](https://i.imgur.com/NGohNLQ.gif).
   - No te preocupes y accede al sitio, es un problema con el `t5m.exe` (e incluso en esa página se habla sobre si es un virus o no).
 
+## :wave: Mi Retiro
+- Ya no haré más nada en mi Repositorio / Wiki, ni tampoco daré soporte alguno.
+- Si quieres continuar con lo que empecé, puedes hacerle un **Fork** a mi Repositorio y Wiki.
+  - Obviamente puedes traducir todo a otro idioma y continuar desde ahí.
+    - Tan solo no olvides de agregarme a los créditos.
+
 ## Tabla de Contenidos
 - [Inicio](../../wiki)
   - [Características](../../wiki#caracter%C3%ADsticas)
